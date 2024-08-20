@@ -1,0 +1,33 @@
+
+html {
+    max-width: 1300px;
+    position: relative;
+}
+
+
+.Dialog {
+    position: absolute;
+    font-size: 3em;
+    /* width: fit-content; */
+    width: fit-content;
+    
+}
+
+#left {
+    background-color: red;
+    text-align: left;
+    top: 10%;
+    left: 5%;
+
+    /* float: left; */
+
+}
+
+#right {
+    float: right;
+    background-color: blue;
+    top: 20%;
+    left: 70%;
+    right: 5%;
+    /* text-align: right; */
+}

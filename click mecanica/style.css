@@ -1,0 +1,16 @@
+div.fade_out {
+    color: white;
+    background-color: green;
+    width: 10rem;
+    height: 5rem;
+    display: flex;
+    
+
+}
+
+.fade_out > p {
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+
+}
