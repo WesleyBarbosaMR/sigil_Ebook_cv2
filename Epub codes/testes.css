@@ -1,7 +1,19 @@
 
 html {
-    max-width: 1300px;
+    max-width: 1920px;
     position: relative;
+}
+
+
+body {
+    height: 1200px;
+}
+
+
+.background {
+	background-color: green;
+	width: 100%;
+	height: 100%;
 }
 
 
